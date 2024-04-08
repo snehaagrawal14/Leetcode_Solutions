@@ -7,19 +7,21 @@ class Solution {
     }
     
     
-    int solveTab(int n, vector<vector<int>>& a){
-        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+    int solveSpace(int n, vector<vector<int>> &a){
+        vector<int> nextRow(n+1, 0);
+        vector<int> currRow(n+1, 0);
         for(int curr=n-1; curr>=0; curr--){
             for(int prev=curr-1; prev>=-1; prev--){
                 int include=0;
                 if(prev==-1 || check(a[prev], a[curr])){
-                    include= a[curr][2]+dp[curr+1][curr+1];
+                    include= a[curr][2] +nextRow[curr+1];
                 }
-                int exclude=dp[curr+1][prev+1];
-                dp[curr][prev+1] = max(include, exclude);
+                int exclude=nextRow[prev+1];
+                currRow[prev+1] = max(include, exclude);
             }
+            nextRow=currRow;
         }
-        return dp[0][0];
+        return currRow[0];
     }
     
 public:
@@ -31,7 +33,7 @@ public:
         
         sort(cuboids.begin(), cuboids.end());
         
-        return solveTab(cuboids.size(), cuboids);
+        return solveSpace(cuboids.size(), cuboids);
         
     }
 };
