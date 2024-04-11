@@ -17,17 +17,24 @@ public:
             s.pop();
         }
         
-        string ans;
+        string temp;
         while(!s.empty()){
-            ans+=s.top();
+            temp+=s.top();
             s.pop();
         }
-        reverse(ans.begin(), ans.end());
+        reverse(temp.begin(), temp.end());
         
-        size_t pos = ans.find_first_not_of('0');
-        ans = (pos == string::npos) ? "0" : ans.substr(pos);
+        string ans;
+        bool found=0;
+        for(auto i: temp){
+            if(i!='0'){
+                found=true;
+            }
+            if(found==true)
+                ans+=i;
+        }
         
-        return ans;
+        return (ans.empty()) ? "0" :ans;
         
     }
 };
