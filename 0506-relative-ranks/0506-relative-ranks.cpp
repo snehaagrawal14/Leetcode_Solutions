@@ -2,29 +2,32 @@ class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& score) {
         
-        map<int, int> ranks;
-        for(auto i: score){
-            ranks[i] = 0;
+        int n = score.size();
+        priority_queue<pair<int, int>> maxheap;
+        for(int i=0; i<n; i++){
+            maxheap.push({score[i],i});
         }
-        int j = score.size();
-        for(auto &i: ranks){
-            i.second = j--;
-        }
-        vector<string> ans(score.size());
-        for(int i=0; i<score.size(); i++){
-            if(ranks[score[i]]==1){
-                ans[i] = "Gold Medal";
+        
+        vector<string> ans(n);
+        int rank = 1;
+        while(!maxheap.empty()){
+            int index = maxheap.top().second;
+            maxheap.pop();
+            if(rank == 1){
+                ans[index] = "Gold Medal";
             }
-            else if(ranks[score[i]]==2){
-                ans[i] = "Silver Medal";
+            else if(rank == 2){
+                ans[index] = "Silver Medal";
             }
-            else if(ranks[score[i]]==3){
-                ans[i] = "Bronze Medal";
+            else if(rank == 3){
+                ans[index] = "Bronze Medal";
             }
             else{
-                ans[i] = to_string(ranks[score[i]]);
+                ans[index] = to_string(rank);
             }
+            rank++;
         }
+        
         return ans;
         
     }
