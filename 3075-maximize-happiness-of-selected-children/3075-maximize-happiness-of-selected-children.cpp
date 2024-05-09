@@ -3,14 +3,15 @@ public:
     long long maximumHappinessSum(vector<int>& happiness, int k) {
         
         long long ans = 0;
+        priority_queue<int> happy;
+        for(auto i: happiness)
+            happy.push(i);
         int selected = 0;
-        sort(happiness.begin(), happiness.end());
-        int n = happiness.size();
-        for(int i=n-1; i>=0 && selected<k; i--){
-            ans += (happiness[i] - selected > 0)?happiness[i] - selected:0;
+        while(selected < k && !happy.empty()){
+            ans += (happy.top()-selected > 0)?happy.top()-selected:0;
             selected++;
+            happy.pop();
         }
-        
         return ans;
         
     }
