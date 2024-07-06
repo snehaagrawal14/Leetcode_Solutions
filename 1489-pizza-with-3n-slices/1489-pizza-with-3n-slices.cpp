@@ -48,6 +48,37 @@ class Solution {
         
     }
 
+    int solveSpace(vector<int>& slices){
+
+        int k = slices.size();
+
+        vector<vector<int>> dp1(3, vector<int>(k+2, 0));
+        vector<vector<int>> dp2(3, vector<int>(k+2, 0));
+
+        for(int index = k-2; index>=0; index--){
+            for(int n=1; n<=k/3; n++){
+                int include = slices[index] + dp1[2][n-1];
+                int exclude = dp1[1][n];
+                dp1[0][n] = max(include, exclude);
+            }
+            dp1[2] = dp1[1];
+            dp1[1] = dp1[0];
+        }
+
+        for(int index = k-1; index>=1; index--){
+            for(int n=1; n<=k/3; n++){
+                int include = slices[index] + dp2[2][n-1];
+                int exclude = dp2[1][n];
+                dp2[0][n] = max(include, exclude);
+            }
+            dp2[2] = dp2[1];
+            dp2[1] = dp2[0];
+        }
+
+        return max(dp1[0][k/3], dp2[1][k/3]);
+        
+    }
+
 public:
     int maxSizeSlices(vector<int>& slices) {
 
@@ -58,7 +89,7 @@ public:
         // vector<vector<int>> dp2(n, vector<int>(n, -1));
         // return max(solveMem(0, n-2, slices, n/3, dp1), solveMem(1, n-1, slices, n/3, dp2)); 
 
-        return solveTab(slices);
+        return solveSpace(slices);
 
     }
 };
