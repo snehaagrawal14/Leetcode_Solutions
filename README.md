@@ -7,6 +7,7 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ This repo contains solutions of Leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Math
 |  |
@@ -37,4 +39,12 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
 <!---LeetCode Topics End-->
