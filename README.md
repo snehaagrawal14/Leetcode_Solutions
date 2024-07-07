@@ -34,10 +34,12 @@ This repo contains solutions of Leetcode problems
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
