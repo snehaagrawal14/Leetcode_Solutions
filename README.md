@@ -34,6 +34,7 @@ This repo contains solutions of Leetcode problems
 | ------- |
 | [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -68,9 +69,11 @@ This repo contains solutions of Leetcode problems
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
