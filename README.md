@@ -12,6 +12,7 @@ This repo contains solutions of Leetcode problems
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repo contains solutions of Leetcode problems
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +50,7 @@ This repo contains solutions of Leetcode problems
 | [1803-average-waiting-time](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +79,5 @@ This repo contains solutions of Leetcode problems
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
