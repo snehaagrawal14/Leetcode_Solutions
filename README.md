@@ -60,6 +60,7 @@ This repo contains solutions of Leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
 ## Heap (Priority Queue)
 |  |
@@ -76,6 +77,7 @@ This repo contains solutions of Leetcode problems
 ## String
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
