@@ -8,6 +8,7 @@ This repo contains solutions of Leetcode problems
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
@@ -21,14 +22,17 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Greedy
