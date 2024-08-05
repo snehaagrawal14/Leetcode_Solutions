@@ -32,6 +32,7 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -110,4 +111,8 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
