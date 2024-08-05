@@ -7,6 +7,7 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0518-coin-change-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -62,6 +63,7 @@ This repo contains solutions of Leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0518-coin-change-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1489-pizza-with-3n-slices](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1489-pizza-with-3n-slices) |
 ## Heap (Priority Queue)
