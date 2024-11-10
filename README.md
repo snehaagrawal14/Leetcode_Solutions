@@ -82,6 +82,7 @@ This repo contains solutions of Leetcode problems
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
@@ -115,4 +116,8 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
