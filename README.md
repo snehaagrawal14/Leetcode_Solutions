@@ -89,6 +89,7 @@ This repo contains solutions of Leetcode problems
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2580-circular-sentence](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2580-circular-sentence) |
 ## Stack
 |  |
 | ------- |
