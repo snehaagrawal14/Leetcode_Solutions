@@ -17,6 +17,7 @@ This repo contains solutions of Leetcode problems
 | [1803-average-waiting-time](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ This repo contains solutions of Leetcode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ This repo contains solutions of Leetcode problems
 | [1642-water-bottles](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
@@ -94,6 +97,7 @@ This repo contains solutions of Leetcode problems
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2580-circular-sentence) |
 ## Stack
 |  |
