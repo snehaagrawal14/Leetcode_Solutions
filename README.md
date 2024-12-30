@@ -130,4 +130,8 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
