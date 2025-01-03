@@ -18,6 +18,7 @@ This repo contains solutions of Leetcode problems
 | [1951-find-the-winner-of-the-circular-game](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -134,4 +135,8 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
