@@ -19,6 +19,7 @@ This repo contains solutions of Leetcode problems
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ This repo contains solutions of Leetcode problems
 | [1392-find-the-difference-of-two-arrays](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,4 +141,8 @@ This repo contains solutions of Leetcode problems
 |  |
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
+## Matrix
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
