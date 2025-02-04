@@ -15,6 +15,7 @@ This repo contains solutions of Leetcode problems
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
