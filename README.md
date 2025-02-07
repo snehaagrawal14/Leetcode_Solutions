@@ -22,6 +22,7 @@ This repo contains solutions of Leetcode problems
 | [2358-number-of-ways-to-split-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ This repo contains solutions of Leetcode problems
 | [1468-check-if-n-and-its-double-exist](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ This repo contains solutions of Leetcode problems
 | [2232-adding-spaces-to-a-string](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/2846-robot-collisions) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/snehaagrawal14/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
